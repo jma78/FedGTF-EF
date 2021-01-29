@@ -11,9 +11,7 @@ This code can be run with tensor toolbox version 3.1: https://gitlab.com/tensors
 ## Usage
 
 Run "run_FedGTF-EF-PC.m". You can also change the function to FedGTF_EF and add the $l_1$ norm by changing to FedGTF_EF_prox.
-
 You can swtich other parameter options:
-
 - isBinary: set to 0 for square loss, 1 for Bernoulli Logit loss;
 
 - isLogit: set to 0 for square loss, 1 for Bernoulli Logit loss;
