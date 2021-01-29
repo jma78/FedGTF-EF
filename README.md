@@ -4,6 +4,8 @@ Source code for WWW 2021 paper "Communication Efficient Federated Generalized Te
 
 FedGTF-EF/FedGTF-Ef-PC are communication-efficient generalized federated tensor factorization algorithms that exploit up to three level of communication reduction strategies to the generalized tensor factorization, which is able to reduce the uplink communication cost up to 99.90%.
 
+<p align="center"><img src="https://github.com/jma78/FedGTF-EF/blob/main/image/algorithm_figure.png" width=500></p>
+
 ## Requirements
 
 This code can be run with tensor toolbox version 3.1: https://gitlab.com/tensors/tensor_toolbox/-/releases
