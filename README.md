@@ -1,6 +1,6 @@
 # FedGTF-EF/FedGTF-EF-PC
 
-Source code for WWW 2021 paper "Communication Efficient Federated Generalized Tensor Factorization for Collaborative Health Data Analytics".
+Source code for WWW 2021 paper "[Communication Efficient Federated Generalized Tensor Factorization for Collaborative Health Data Analytics](https://dl-acm-org.proxy.library.emory.edu/doi/10.1145/3442381.3449832)".
 
 FedGTF-EF/FedGTF-Ef-PC are communication-efficient generalized federated tensor factorization algorithms that exploit up to three levels of communication reduction strategies to the generalized tensor factorization, which is able to reduce the uplink communication cost up to 99.90%.
 
